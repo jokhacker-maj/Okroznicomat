@@ -1,0 +1,6 @@
+Načrt programa
+Program bo preko API ja za mail (SMTP API ja) sprejel maile v katerih so okrožnice. Potem bo uporabnik v uporabniškem vmesniku lahko izbral parametre za željene okrožnice. Program bo nato preko ChatGPT API ja napisal povzetek okrožnic in ga uporabniku lepo predstavil v programskem okolju.
+Koraki do rešitve
+Knjižnice ki jih bom uporabil so: SMTP knjižnica ali Gmail API, tkinter knjižnico za uporabniški vmesnik in Chat GPT API.
+Ne znam še uporabljati tkinter in SMTP knjižnice.
+
