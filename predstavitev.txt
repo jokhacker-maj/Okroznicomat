@@ -3,5 +3,3 @@ Program bo preko API ja za mail (SMTP API ja) sprejel maile v katerih so okrožn
 Koraki do rešitve
 Knjižnice ki jih bom uporabil so: SMTP knjižnica ali Gmail API, tkinter knjižnico za uporabniški vmesnik in Chat GPT API.
 Ne znam še uporabljati tkinter in SMTP knjižnice.
-
-test
