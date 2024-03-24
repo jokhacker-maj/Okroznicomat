@@ -1,0 +1,1 @@
+Program napiše povzetke okrožnic. Za delovanje je potrebno dodati podatke v credentials.py datoteko. Program deluje le z gmail računom. Za backup_code pri credentials datoteki so potrebni koraki: Manage your google account > security > backup codes . Eno od kod je potrebno prekopirati. 
