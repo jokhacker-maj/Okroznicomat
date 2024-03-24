@@ -1,4 +1,3 @@
 openai
-imaplib
 email
 tkinter
