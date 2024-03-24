@@ -1,0 +1,4 @@
+openai
+imaplib
+email
+tkinter
