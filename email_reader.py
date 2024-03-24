@@ -19,7 +19,7 @@ my_mail.select('Inbox')
 
 #For other keys (criteria): https://gist.github.com/martinrusev/6121028#file-imap-search
 key = 'FROM'
-value = 'majabbas.jokhadar@gmail.com'
+value = 'andrej.smrdu@gimvic.org'
 _, data = my_mail.search(None, key, value)  #Search for emails with specific key and value
 
 mail_id_list = data[0].split()  #IDs of all emails that we want to fetch 
